@@ -1,0 +1,92 @@
+body{
+    background-color:	#800080 ;
+}
+
+.header{
+    background-color: #FFFF00;
+}
+
+.header-links{
+    background-color: #AFFF00;
+}
+
+ul{
+    background-color: #000080;
+}
+
+li{
+    background-color: #00FFFF;
+}
+a{
+    background-color: bisque;
+}
+
+.title-container {
+    background-color: #AFFF00;
+}
+
+.title{
+    background-color: blanchedalmond;
+}
+
+.subtext{
+
+    background-color: #800080;
+}
+
+.signup-button{
+    background-color: #00FFFF;
+}
+
+.image-placeholder{
+    background-color: gray;
+}
+
+.main-content{
+    background-color: #00FFFF;
+}
+
+.main-content-title{
+    background-color: aliceblue;
+}
+
+.card-container{
+    background-color: white;
+}
+.card{
+    background-color: gray;
+}
+.card-image{background-color: black;}
+.card-text{
+    background-color: aqua;
+}
+
+.sub-content{background-color: chartreuse;}
+
+.inspiring-quote{
+    background-color: #FFFF00;
+}
+.quote-author{background-color: blue;}
+
+.bottom-content-container{
+    background-color: #AFFF00;
+}
+.bottom-content{
+    background-color: #FFA003;
+}
+.call-to-action{ background-color: antiquewhite;}
+
+.call-to-action-subtext{
+background-color: aliceblue;
+}
+.call-to-action-button{
+    background-color: #000080;
+}
+
+.footer{
+    background-color: gray;
+}
+.copyright{
+    background-color: aquamarine;
+}
+
